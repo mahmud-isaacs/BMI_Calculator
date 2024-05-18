@@ -1,0 +1,38 @@
+body {
+    background-color: powderblue;
+    color: ;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+.content {
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+.input {
+    padding: 10px;
+}
+
+.result {
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+#calculate {
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px;
+    background-color: seagreen;
+    color: lemonchiffon;
+    font-size: 20px;
+}
